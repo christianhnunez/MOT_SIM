@@ -1,0 +1,20 @@
+===== RUN SUMMARY =====
+Species: CesiumN_sim: 500000
+tube_diam (m): 0.0055
+tube_length (m): 0.17500000000000002
+cell (xlen, ylen, zlen) (m): (0.01, 0.02, 0.08) 
+long_cooling_waist (m):0.03
+short_cooling_waist_x (m):0.004
+short_cooling_waist_y (m):0.008
+push_waist (m:)0.0022
+s0_push:0.25
+s0_cooling:23
+det_x (Gamma):-1.9
+det_y (Gamma):-1.9
+det_push (Gamma): -1.9
+
+===== CAPTURE STATS =====
+Exited tube: 27
+Captured by 3D MOT: 24
+...assuming 3D MOT (cap radius (m), cap veloc (m/s)): (0.01, 40) 
+Capture efficiency (captures/N_sim): 4.8e-05
